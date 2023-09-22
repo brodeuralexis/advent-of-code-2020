@@ -8,3 +8,4 @@
 :- use_module(src/day01).
 :- use_module(src/day02).
 :- use_module(src/day03).
+:- use_module(src/day04).
