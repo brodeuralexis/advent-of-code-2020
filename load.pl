@@ -11,3 +11,4 @@
 :- use_module(src/day04).
 :- use_module(src/day05).
 :- use_module(src/day06).
+:- use_module(src/day07).
